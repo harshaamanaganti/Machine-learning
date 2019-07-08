@@ -1,2 +1,2 @@
 # machine_learning
-Supervised and unsupervised Learning Algorithms.
+Supervised and UnSupervised Learning Algorithms.
